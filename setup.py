@@ -5,6 +5,7 @@ APP = ['keeper.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
+    'iconfile': 'clock.icns',
     'plist': {
         'LSUIElement': True,
     },
